@@ -52,7 +52,7 @@ pip install opencv-python numpy eth-account pycryptodome requests
 ```
 # CoreSky私钥配置文件
 # 第一个账户的私钥
-0xdb728a7dc0a45b580adc5f4efc0e6b3853e820f2faab0cdf5aa2d35108d73ca5
+0xdb728a7dc0a45b580adc5f4efc0e6b3853e820aaaaaa0cdf5aa2d35108d73ca5
 
 # 第二个账户的私钥（不带0x前缀也可以）
 abc123def456789012345678901234567890123456789012345678901234567890
